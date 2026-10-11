@@ -1,28 +1,18 @@
-# Quiz Application
+# Java Quiz Application
 
 ## Project Description
 
-This project is a web-based quiz application developed
-as part of a university course.
+This project is a simple quiz application developed
+in Java using IntelliJ IDEA.
 
-The application allows users to test their knowledge
-by answering questions from different topics.
-
-Quiz questions can be provided using CSV files.
-
-## Main Features
-
-- Answer quiz questions
-- Use different quiz topics
-- Import questions from CSV files
-- Display quiz results
+Users can answer multiple-choice questions and
+receive their final score.
 
 ## Technologies
 
-- HTML
-- CSS
-- JavaScript
+- Java
+- IntelliJ IDEA
 
-## Authors
+## Author
 
 Mario Wagner
